@@ -1,4 +1,4 @@
-  public static void main(String[] args) {
+zmena c.1  public static void main(String[] args) {
 
     int sum1 = 10;
     int sum2 = 20;
